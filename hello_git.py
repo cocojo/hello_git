@@ -1,2 +1,2 @@
 print "Hello git!!"
-print "jo"
+print "jo, de mannen"
